@@ -338,7 +338,7 @@ switch (_code) do
     };
 	
 	//Pickaxe - Q
-	case 41:
+	case 16:
 	{
 		if((!life_action_inUse) && (vehicle player == player) ) then
 		{
